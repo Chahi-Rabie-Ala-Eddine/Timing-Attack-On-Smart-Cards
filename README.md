@@ -14,4 +14,5 @@ This is a [timing attack](https://medium.com/asecuritysite-when-bob-met-alice/si
 
 ## License & copyright
 
-© **CHAHI Rabie Ala-Eddine**,**KESKES Yasmine** ***Versailles Saint Quentin en Yvelines college***.
+© **Supervisor Mr Goubin Louis**, **CHAHI Rabie Ala-Eddine**, **KESKES Yasmine** ***Versailles Saint Quentin en Yvelines college***.
+
