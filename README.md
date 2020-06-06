@@ -8,7 +8,7 @@
  
 ## About
 
-This is a [timing attack](https://en.wikipedia.org/wiki/Triple_DES) against RSA-Montgomery algorithm.
+This is a [timing attack](https://medium.com/asecuritysite-when-bob-met-alice/side-channels-and-the-montgomery-reduction-algorithm-with-golang-50754103b75d) against RSA-Montgomery algorithm.
 
 ## License & copyright
 
