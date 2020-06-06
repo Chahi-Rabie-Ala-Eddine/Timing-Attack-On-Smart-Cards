@@ -8,7 +8,7 @@
  
 ## About
 
-This is a [timing attack against RSA-Montgomery algorithm](https://en.wikipedia.org/wiki/Triple_DES)
+This is a [timing attack](https://en.wikipedia.org/wiki/Triple_DES) against RSA-Montgomery algorithm.
 
 ## License & copyright
 
