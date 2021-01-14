@@ -10,8 +10,6 @@
 
 This is a [timing attack](https://medium.com/asecuritysite-when-bob-met-alice/side-channels-and-the-montgomery-reduction-algorithm-with-golang-50754103b75d) against RSA-Montgomery algorithm.
 
-![alt text](http://ala-eddine-chahi.fr/build)
-
 ## License & copyright
 
 © **Supervisor Mr Goubin Louis**, **CHAHI Rabie Ala-Eddine**, **KESKES Yasmine** ***Versailles Saint Quentin en Yvelines college***.
